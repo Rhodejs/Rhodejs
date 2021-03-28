@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'am Rhode 
 
 <a href="https://discord.com/users/790463945424764949" target="_blank"><img src="https://shields.io/badge/Rhode-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://www.youtube.com/channel/UCFF4vmmOOT_IvFxkCUUgHvQ" target="_blank"><img src="https://shields.io/badge/RhodeYoutube-111111.svg?&style=for-the-badge&logo=youtube"></a>
